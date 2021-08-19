@@ -1,0 +1,13 @@
+D:\Vladik`s Chat Server\bin\Debug\netcoreapp3.1\Vladik`s Chat Server.exe
+D:\Vladik`s Chat Server\bin\Debug\netcoreapp3.1\Vladik`s Chat Server.deps.json
+D:\Vladik`s Chat Server\bin\Debug\netcoreapp3.1\Vladik`s Chat Server.runtimeconfig.json
+D:\Vladik`s Chat Server\bin\Debug\netcoreapp3.1\Vladik`s Chat Server.runtimeconfig.dev.json
+D:\Vladik`s Chat Server\bin\Debug\netcoreapp3.1\Vladik`s Chat Server.dll
+D:\Vladik`s Chat Server\bin\Debug\netcoreapp3.1\Vladik`s Chat Server.pdb
+D:\Vladik`s Chat Server\obj\Debug\netcoreapp3.1\Vladik`s Chat Server.csproj.AssemblyReference.cache
+D:\Vladik`s Chat Server\obj\Debug\netcoreapp3.1\Vladik`s Chat Server.AssemblyInfoInputs.cache
+D:\Vladik`s Chat Server\obj\Debug\netcoreapp3.1\Vladik`s Chat Server.AssemblyInfo.cs
+D:\Vladik`s Chat Server\obj\Debug\netcoreapp3.1\Vladik`s Chat Server.csproj.CoreCompileInputs.cache
+D:\Vladik`s Chat Server\obj\Debug\netcoreapp3.1\Vladik`s Chat Server.dll
+D:\Vladik`s Chat Server\obj\Debug\netcoreapp3.1\Vladik`s Chat Server.pdb
+D:\Vladik`s Chat Server\obj\Debug\netcoreapp3.1\Vladik`s Chat Server.genruntimeconfig.cache
