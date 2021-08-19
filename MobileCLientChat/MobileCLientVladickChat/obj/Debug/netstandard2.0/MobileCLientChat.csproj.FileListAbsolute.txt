@@ -1,0 +1,14 @@
+D:\MobileCLientVladickChat\MobileCLientVladickChat\bin\Debug\netstandard2.0\MobileCLientChat.deps.json
+D:\MobileCLientVladickChat\MobileCLientVladickChat\bin\Debug\netstandard2.0\MobileCLientChat.dll
+D:\MobileCLientVladickChat\MobileCLientVladickChat\bin\Debug\netstandard2.0\ref\MobileCLientChat.dll
+D:\MobileCLientVladickChat\MobileCLientVladickChat\bin\Debug\netstandard2.0\MobileCLientChat.pdb
+D:\MobileCLientVladickChat\MobileCLientVladickChat\obj\Debug\netstandard2.0\MobileCLientChat.csproj.AssemblyReference.cache
+D:\MobileCLientVladickChat\MobileCLientVladickChat\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\MobileCLientVladickChat\MobileCLientVladickChat\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\MobileCLientVladickChat\MobileCLientVladickChat\obj\Debug\netstandard2.0\MobileCLientChat.AssemblyInfoInputs.cache
+D:\MobileCLientVladickChat\MobileCLientVladickChat\obj\Debug\netstandard2.0\MobileCLientChat.AssemblyInfo.cs
+D:\MobileCLientVladickChat\MobileCLientVladickChat\obj\Debug\netstandard2.0\MobileCLientChat.csproj.CoreCompileInputs.cache
+D:\MobileCLientVladickChat\MobileCLientVladickChat\obj\Debug\netstandard2.0\XamlC.stamp
+D:\MobileCLientVladickChat\MobileCLientVladickChat\obj\Debug\netstandard2.0\MobileCLientChat.dll
+D:\MobileCLientVladickChat\MobileCLientVladickChat\obj\Debug\netstandard2.0\ref\MobileCLientChat.dll
+D:\MobileCLientVladickChat\MobileCLientVladickChat\obj\Debug\netstandard2.0\MobileCLientChat.pdb
